@@ -1,3 +1,5 @@
 # RedstoneWorld
-My Redstone World\n
+My Redstone World
+
+
 Unzip it and put the "world" folder in the saves directory of minecraft.
